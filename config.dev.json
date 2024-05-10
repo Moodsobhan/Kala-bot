@@ -19,11 +19,11 @@
 		"ignoreCommand": []
 	}, "api":"https://noobs-api.onrender.com/dipto",
 	"adminBot": [
-    	"100064502005991",
+    	"100043588132979",
     	"100062247702941"
 ],
 	"DEV": [
-	  "100064502005991"
+	  "100043588132979"
 ],
 	"whiteListMode": {
 		"enable": false,
